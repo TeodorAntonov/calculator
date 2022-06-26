@@ -1,0 +1,46 @@
+.body{
+    background-color: lightskyblue;
+    background-size: cover;
+}
+.retangleForFoundation{    
+    background-color: rgb(13, 140, 237);
+    width: 450px;
+    height: 600px;
+    border-style: solid;
+}
+
+.screen{    
+    background-color: rgb(234, 234, 235);
+    width: 447px;
+    height: 150px;
+    border-color: gray;
+    border-style: solid;
+    text-align-last: center;
+    font-size: 60px;
+}
+.buttonForNumbers{  
+    background-color: rgb(234, 234, 235);
+    width: 80px;
+    height: 80px;
+    border-color: black;
+    border-style: solid;
+    position: absolute;
+    text-align-last: center;
+    font-size: 60px;
+}
+.buttonForNumbers:hover {
+    background-color: yellow;
+}
+.buttonForSign{  
+    background-color: rgb(234, 234, 235);
+    width: 120px;
+    height: 80px;
+    border-color: black;
+    border-style: solid;
+    position: absolute;
+    text-align-last: center;
+    font-size: 60px;
+}
+.buttonForSign:hover {
+    background-color: yellow;
+}
